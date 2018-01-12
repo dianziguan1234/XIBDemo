@@ -3,7 +3,7 @@
 //  XIBDemo
 //
 //  Created by gwc on 16/05/2017.
-//  Copyright © 2017 gwc. All rights reserved.
+//  Copyright © 2017 gwca. All rights reserved.
 //
 
 #import "ViewController.h"
